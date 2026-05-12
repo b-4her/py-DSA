@@ -2,6 +2,11 @@
 
 Reviewing data structures and algorithms in Python instead of C++ to make it easier to progress through the material.
 
+
+## Start Date
+
+April 27, 2026
+
 ## LeetCode Progress
 
 Check out my latest progress on LeetCode:  
