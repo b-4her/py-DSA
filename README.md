@@ -72,7 +72,7 @@ For each topic:
 
 ## Goals
 
-- Finish the NeetCode 150 roadmap  
+- Finish the NeetCode 150 & 250 roadmaps  
   https://neetcode.io/roadmap
 
 - Finish CSkilled - Crack DS & Coding Interviews  
