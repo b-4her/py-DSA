@@ -35,7 +35,7 @@ For each topic:
 | Doubly Linked List | ✅ |
 | Stack | ✅ |
 | Queue | ✅ |
-| Binary Tree | ⬜ |
+| Binary Tree | ✅ |
 | Binary Search Tree | ⬜ |
 | Heap / Priority Queue | ⬜ |
 | AVL Tree | ⬜ |
