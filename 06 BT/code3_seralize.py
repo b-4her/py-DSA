@@ -63,6 +63,6 @@ if __name__ == '__main__':
 
     print(tree.parenthesize())
     #  (1(12(4(7()())(8()()))(5()(9()())))(3()(6()(10()()))))
-    # notice 12 is before 3 in string comparison
+    # notice 12 is before 3 in string comparison.
 
 
