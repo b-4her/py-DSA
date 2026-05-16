@@ -36,7 +36,7 @@ For each topic:
 | Stack | ✅ |
 | Queue | ✅ |
 | Binary Tree | ✅ |
-| Binary Search Tree | ⬜ |
+| Binary Search Tree | ✅ |
 | Heap / Priority Queue | ⬜ |
 | AVL Tree | ⬜ |
 | Tries | ⬜ |
